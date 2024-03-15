@@ -28,7 +28,7 @@ On the Orders page, you can view order details, update order status, and delete 
 
 In the checkout page, user can use payment gateway for errorless transactions
 
-### Navigation
+### NAVIGATION
 
 ![Screenshot 2024-03-15 233554](https://github.com/SwarupKMondal/ERP-System/assets/96918030/0aad732e-eb09-4c98-8f22-eddbece70500)
 
