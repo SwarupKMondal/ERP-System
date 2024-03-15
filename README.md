@@ -1,6 +1,38 @@
-# Getting Started with Create React App
+# Simplified ERP System with React Documentation
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This repository contains the front end code for a web application.
+
+## Interaction with the Website & Usage of the Web Application
+
+### PRODUCT PAGE
+
+![Screenshot 2024-03-15 232257](https://github.com/SwarupKMondal/ERP-System/assets/96918030/0f94bef9-ecbd-42bf-bcd3-a4d254d7bcbb)
+
+On the Products page, you can shop, find dresses for men, women and kids
+
+### LOGIN PAGE
+
+![ss](https://github.com/SwarupKMondal/ERP-System/assets/96918030/0cef4620-465c-4f56-8ba5-9a49e5c264a1)
+
+The login pages provides the username, email and password
+
+### ORDER PAGE
+
+![Screenshot 2024-03-15 233214](https://github.com/SwarupKMondal/ERP-System/assets/96918030/5eb12e41-7916-40dd-a5b9-faf13cdf9f9a)
+
+On the Orders page, you can view order details, update order status, and delete orders.
+
+### CHECKOUT PAGE
+
+![Screenshot 2024-03-15 233403](https://github.com/SwarupKMondal/ERP-System/assets/96918030/ec946972-48b6-4b41-940a-1d97ec0b09fa)
+
+In the checkout page, user can use payment gateway for errorless transactions
+
+### Navigation
+
+![Screenshot 2024-03-15 233554](https://github.com/SwarupKMondal/ERP-System/assets/96918030/0aad732e-eb09-4c98-8f22-eddbece70500)
+
+Use the navigation bar at the top of the page to switch between different sections of the application: Shop, Men, Women, Kids, Login and Cart.
 
 ## Available Scripts
 
@@ -65,9 +97,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 =======
 
 
